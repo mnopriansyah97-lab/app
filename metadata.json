@@ -1,0 +1,8 @@
+{
+  "name": "Remix: UMKM PRO APP CEK 1",
+  "description": "Aplikasi dashboard UMKM modern dengan estetika liquidglassmorphism khas UMKM PRO Engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
